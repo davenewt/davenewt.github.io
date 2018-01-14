@@ -2,7 +2,7 @@
 layout: single
 header:
   overlay_image: ../assets/images/asteroids-1440x500.png
-  overlay_filter: rgba(255, 255, 255, 0.5)
+  overlay_filter: rgba(255, 0, 0, 0.5)
   image_description: "Asteroids"
   cta_label: "Play Now"
   cta_url: "/p5-asteroids/"
