@@ -11,10 +11,10 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Welcome to Davenewt's GitHub Pages"
+title                    : "David's Creative Coding"
 title_separator          : "-"
-name                     : "Davenewt"
-description              : "My GitHub Pages Projects"
+name                     : "David"
+description              : "Creative Coding"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
