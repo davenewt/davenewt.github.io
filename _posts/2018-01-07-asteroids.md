@@ -1,5 +1,6 @@
 ---
 layout: single
+excerpt: "Re-creating Asteroids in the browser with p5.js"
 header:
   overlay_image: ../assets/images/asteroids-1440x500.png
   overlay_filter: rgba(100, 0, 0, 0.8)
