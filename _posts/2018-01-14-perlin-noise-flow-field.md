@@ -1,7 +1,7 @@
 ---
 layout: single
 teaser: ../assets/images/perlin noise flowfield.png
-excerpt: "Re-creating Asteroids in the browser with p5.js"
+excerpt: "Playing with a perlin noise flow field in the browser"
 header:
   overlay_image: ../assets/images/perlin noise flowfield.png
   overlay_filter: rgba(0, 0, 0, 0.5)
