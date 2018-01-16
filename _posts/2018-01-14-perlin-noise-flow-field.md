@@ -53,3 +53,7 @@ We then sprinkle several thousand particles over the top, and have their velocit
 ### Try It!
 
 Try it out yourself [here.](/p5-perlin-noise/)
+
+## The Original Coding Challenge by Dan Shiffman @ The Coding Train
+
+{% include video id="BjoM9oKOAKY" provider="youtube" %}
