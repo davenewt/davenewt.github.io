@@ -10,9 +10,9 @@ header:
   cta_url: "/p5-perlin-noise/"
   caption: "Pretty! Thanks Mr. Perlin!"
 ---
-## Another project based on Dan Shiffman's Coding Challenges!
+## Based on Dan Shiffman's [Perlin Noise Flow Field Coding Challenge](https://www.youtube.com/watch?v=BjoM9oKOAKY).
 
-Try it out yourself [here.](/p5-perlin-noise/)
+Try it out yourself [here](/p5-perlin-noise/) and subscribe to [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) for some truly great creative coding videos!
 
 ### Background
 
