@@ -22,15 +22,13 @@ It is 1983. Your name is Ken Perlin. You're frustrated with the blocky nature of
 
 > a technique used to produce natural appearing textures on computer generated surfaces for motion picture visual effects.
 
-...but it's also a great way to generate "similar" random numbers.
-
-p5.js uses Perlin Noise for its [noise](https://p5js.org/reference/#/p5/noise) function.
+In essence, it's a way to generate "similar" random numbers, and `p5.js` uses Perlin Noise for its [noise](https://p5js.org/reference/#/p5/noise) function.
 
 > Perlin noise is a random sequence generator producing a more natural ordered, harmonic succession of numbers compared to the standard random() function.
 
 In this project, we use it to create a 2D field of vectors, each pointing in a similar, but different, direction:
 
-![Perlin noise 2D field vectors](assets/images/perlin noise field vectors.png)
+![Perlin noise 2D field vectors](../assets/images/perlin noise field vectors.png)
 
 We then sprinkle several thousand particles over the top, and have their velocities affected by the vectors. Depending on how we draw them, we can generate some pretty cool stuff.
 
