@@ -26,10 +26,30 @@ In essence, it's a way to generate "similar" random numbers, and `p5.js` uses Pe
 
 > Perlin noise is a random sequence generator producing a more natural ordered, harmonic succession of numbers compared to the standard random() function.
 
-In this project, we use it to create a 2D field of vectors, each pointing in a similar, but different, direction:
+In this project, we use it to create a 2D field of vectors, each pointing in a similar, but different, direction as its neighbouring vectors:
 
 ![Perlin noise 2D field vectors](../assets/images/perlin noise field vectors.png)
 
-We then sprinkle several thousand particles over the top, and have their velocities affected by the vectors. Depending on how we draw them, we can generate some pretty cool stuff.
+We then sprinkle several thousand particles over the top, and have their velocities affected by the vectors. Depending on how we draw the particles during animation, we can generate some pretty cool stuff.
+
+### Examples
+
+#### White Particles
+
+{% include video id="251378547" provider="vimeo" %}
+
+#### Coloured Comets
+
+{% include video id="251378689" provider="vimeo" %}
+
+#### White Web
+
+{% include video id="251378873" provider="vimeo" %}
+
+#### Coloured Web
+
+{% include video id="251378968" provider="vimeo" %}
+
+### Try It!
 
 Try it out yourself [here.](/p5-perlin-noise/)
