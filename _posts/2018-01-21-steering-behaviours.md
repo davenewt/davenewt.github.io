@@ -14,10 +14,10 @@ header:
 
 This is a simulation based on the theories from Craig Reynolds' work, _[Steering Behaviors For Autonomous Characters](https://www.red3d.com/cwr/steer/gdc99/)_ and code from Daniel Shiffman's _[The Nature of Code.](http://natureofcode.com)_
 
-
+### Example Videos
+#### Flocking:
+{% include video id="252053153" provider="vimeo" %}
 
 ### References
-
 * Session 3 of [The Nature of Code - free course](https://www.kadenze.com/courses/the-nature-of-code-ii/sessions) by Dan Shiffman.
-
 * Craig Reynolds' [Steering Behaviors For Autonomous Characters](https://www.red3d.com/cwr/steer/gdc99/)
